@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14, 11.125" name="Data">
+  <DataContextMoniker Name="/DataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="9e5b046e-c3af-47b9-9ae3-a6daff2c5a8a" absoluteBounds="6.25, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DataDataContext/Aircraft" />
+      <nestedChildShapes>
+        <elementListCompartment Id="51714761-8238-43bb-93da-c1acdb82b5c0" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f3570e7d-e4e5-468e-90ee-01c510df6b27" absoluteBounds="6.25, 7, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/DataDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f8195652-cd97-442a-84d1-a53fd10e3a44" absoluteBounds="6.265, 7.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d296326a-7f0c-4687-b86e-f1a58864a0f2" absoluteBounds="3.5, 4, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DataDataContext/Airport" />
+      <nestedChildShapes>
+        <elementListCompartment Id="437dfc0b-ea38-4207-90ed-1b0708d615f7" absoluteBounds="3.515, 4.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="31cc824c-22ce-48ab-bc08-2bfd2e0edc04" absoluteBounds="9, 7, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DataDataContext/CabinType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9cf58df6-2fb3-4440-bcff-f653414e3924" absoluteBounds="9.015, 7.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7dae5c53-1af3-465e-909f-8c4767a8c416" absoluteBounds="0.75, 5.375, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DataDataContext/Country" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19eca112-63fc-42eb-bcd1-0c7445a81bc4" absoluteBounds="0.765, 5.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c7a13d2b-3c21-4a8c-acb9-23e3eff351a0" absoluteBounds="3.5, 6.375, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DataDataContext/Office" />
+      <nestedChildShapes>
+        <elementListCompartment Id="84563fd7-b70e-4ee6-afe5-972a5e777e4c" absoluteBounds="3.515, 6.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="55bad829-e07c-424d-9984-4772cb50a0a2" absoluteBounds="3.5, 9.625, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/DataDataContext/Role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e306d7a8-993b-45c8-8de1-80ad980bc8d8" absoluteBounds="3.515, 10.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d905e543-6724-4e3a-8067-829b163984e8" absoluteBounds="6.25, 3.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DataDataContext/Route" />
+      <nestedChildShapes>
+        <elementListCompartment Id="80579758-8add-472d-8a09-36ae5eed2ea3" absoluteBounds="6.265, 4.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6c08eb30-10e3-44bb-b4bc-057e7f149819" absoluteBounds="9, 3.5, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/DataDataContext/Schedule" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8af711b3-ff44-4641-86e3-0d0e0453ca27" absoluteBounds="9.015, 3.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d035d05d-2469-48a6-ba05-b42fdab07f7f" absoluteBounds="11.75, 5, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/DataDataContext/Ticket" />
+      <nestedChildShapes>
+        <elementListCompartment Id="10367064-5db2-4c2b-8ea1-901800cd9c5e" absoluteBounds="11.765, 5.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 5.375); (1.75 : 4.6874995); (3.5 : 4.6874995)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Country/Country_Airport" />
+      <nodes>
+        <classShapeMoniker Id="7dae5c53-1af3-465e-909f-8c4767a8c416" />
+        <classShapeMoniker Id="d296326a-7f0c-4687-b86e-f1a58864a0f2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.57294840494792); (6.25 : 7.57294840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Office/Office_User" />
+      <nodes>
+        <classShapeMoniker Id="c7a13d2b-3c21-4a8c-acb9-23e3eff351a0" />
+        <classShapeMoniker Id="f3570e7d-e4e5-468e-90ee-01c510df6b27" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 6.56899251302083); (1.75 : 7.35744516145833); (3.5 : 7.35744516145833)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Country/Country_Office" />
+      <nodes>
+        <classShapeMoniker Id="7dae5c53-1af3-465e-909f-8c4767a8c416" />
+        <classShapeMoniker Id="c7a13d2b-3c21-4a8c-acb9-23e3eff351a0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 10.2219962565104); (7.25 : 10.2219962565104); (7.25 : 9.5401025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Role/Role_User" />
+      <nodes>
+        <classShapeMoniker Id="55bad829-e07c-424d-9984-4772cb50a0a2" />
+        <classShapeMoniker Id="f3570e7d-e4e5-468e-90ee-01c510df6b27" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.78929768880208); (6.25 : 4.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Airport/Airport_Route" />
+      <nodes>
+        <classShapeMoniker Id="d296326a-7f0c-4687-b86e-f1a58864a0f2" />
+        <classShapeMoniker Id="d905e543-6724-4e3a-8067-829b163984e8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.33214884440104); (6.25 : 4.33214884440104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Airport/Airport_Route1" />
+      <nodes>
+        <classShapeMoniker Id="d296326a-7f0c-4687-b86e-f1a58864a0f2" />
+        <classShapeMoniker Id="d905e543-6724-4e3a-8067-829b163984e8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 1.73159912109375); (10 : 1.73159912109375); (10 : 3.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Aircraft/Aircraft_Schedule" />
+      <nodes>
+        <classShapeMoniker Id="9e5b046e-c3af-47b9-9ae3-a6daff2c5a8a" />
+        <classShapeMoniker Id="6c08eb30-10e3-44bb-b4bc-057e7f149819" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.76044840494792); (9 : 4.76044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Route/Route_Schedule" />
+      <nodes>
+        <classShapeMoniker Id="d905e543-6724-4e3a-8067-829b163984e8" />
+        <classShapeMoniker Id="6c08eb30-10e3-44bb-b4bc-057e7f149819" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 5.42390055338542); (11.75 : 5.42390055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/Schedule/Schedule_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="6c08eb30-10e3-44bb-b4bc-057e7f149819" />
+        <classShapeMoniker Id="d035d05d-2469-48a6-ba05-b42fdab07f7f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 7.55850341796875); (11.75 : 7.55850341796875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/CabinType/CabinType_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="31cc824c-22ce-48ab-bc08-2bfd2e0edc04" />
+        <classShapeMoniker Id="d035d05d-2469-48a6-ba05-b42fdab07f7f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 8.89829752604167); (12.75 : 8.89829752604167); (12.75 : 8.1170068359375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataDataContext/User/User_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="f3570e7d-e4e5-468e-90ee-01c510df6b27" />
+        <classShapeMoniker Id="d035d05d-2469-48a6-ba05-b42fdab07f7f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
